@@ -3,10 +3,30 @@
     <title>unofficial skills</title>
     <link href="https://skills.andrewstech.me/feed.xml" rel="self" />
     <link href="https://skills.andrewstech.me" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2020-03-16T20:40:58+00:00</updated>
     <author>
         <name>andrews tech</name>
     </author>
     <id>https://skills.andrewstech.me</id>
 
+    <entry>
+        <title>test</title>
+        <author>
+            <name>andrews tech</name>
+        </author>
+        <link href="https://skills.andrewstech.me/test.html"/>
+        <id>https://skills.andrewstech.me/test.html</id>
+
+        <updated>2020-03-16T20:40:50+00:00</updated>
+            <summary>
+                <![CDATA[
+                    this is a test post
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                this is a test post
+            ]]>
+        </content>
+    </entry>
 </feed>

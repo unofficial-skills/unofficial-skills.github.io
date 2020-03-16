@@ -9,5 +9,19 @@
         "name": "andrews tech"
     },
     "items": [
+        {
+            "id": "https://skills.andrewstech.me/test.html",
+            "url": "https://skills.andrewstech.me/test.html",
+            "title": "test",
+            "summary": "this is a test post",
+            "content_html": "this is a test post",
+            "author": {
+                "name": "andrews tech"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-03-16T20:40:50+00:00",
+            "date_modified": "2020-03-16T20:40:50+00:00"
+        }
     ]
 }
