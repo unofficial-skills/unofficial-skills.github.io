@@ -11,8 +11,8 @@
     },
     "items": [
         {
-            "id": "https://skills.andrewstech.me/test.html",
-            "url": "https://skills.andrewstech.me/test.html",
+            "id": "https://skills.andrewstech.me/test/",
+            "url": "https://skills.andrewstech.me/test/",
             "title": "test",
             "summary": "this is a test post",
             "content_html": "this is a test post",
