@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>unofficial skills</title>
+    <link href="https://skills.andrewstech.me/feed.xml" rel="self" />
+    <link href="https://skills.andrewstech.me" />
+    <updated>1970-01-01T01:00:00+01:00</updated>
+    <author>
+        <name>andrews tech</name>
+    </author>
+    <id>https://skills.andrewstech.me</id>
+
+</feed>
