@@ -3,29 +3,31 @@
     <title>unofficial skills</title>
     <link href="https://skills.andrewstech.me/feed.xml" rel="self" />
     <link href="https://skills.andrewstech.me" />
-    <updated>2020-03-17T16:05:25+00:00</updated>
+    <updated>2020-03-17T16:07:48+00:00</updated>
     <author>
         <name>andrews tech</name>
     </author>
     <id>https://skills.andrewstech.me</id>
 
     <entry>
-        <title>test</title>
+        <title>Watch this space</title>
         <author>
             <name>andrews tech</name>
         </author>
-        <link href="https://skills.andrewstech.me/test/"/>
-        <id>https://skills.andrewstech.me/test/</id>
+        <link href="https://skills.andrewstech.me/watch-this-space/"/>
+        <id>https://skills.andrewstech.me/watch-this-space/</id>
 
-        <updated>2020-03-16T20:40:50+00:00</updated>
+        <updated>2020-03-17T16:07:43+00:00</updated>
             <summary>
                 <![CDATA[
-                    this is a test post
+                    Over the next few days I will start uploading custom built skills made by the community for both google and alexa. Tutorials and setup links will be uploaded here. 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                this is a test post
+                <p>Over the next few days I will start uploading custom built skills made by the community for both google and alexa. Tutorials and setup links will be uploaded here.</p>
+<p> </p>
+<p> </p>
             ]]>
         </content>
     </entry>
