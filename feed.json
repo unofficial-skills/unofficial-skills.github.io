@@ -14,15 +14,15 @@
             "id": "https://skills.andrewstech.me/watch-this-space/",
             "url": "https://skills.andrewstech.me/watch-this-space/",
             "title": "Watch this space",
-            "summary": "Over the next few days I will start uploading custom built skills made by the community for both google and alexa. Tutorials and setup links will be uploaded here. ",
-            "content_html": "<p>Over the next few days I will start uploading custom built skills made by the community for both google and alexa. Tutorials and setup links will be uploaded here.</p>\n<p> </p>\n<p> </p>",
+            "summary": "Over the next few days I will start uploading custom built skills made by the community for both google and alexa. Tutorials and setup links will be uploaded here. If you have a skill that you would like to be featured then email: skills@andrewstech.me ",
+            "content_html": "<p>Over the next few days I will start uploading custom built skills made by the community for both google and alexa. Tutorials and setup links will be uploaded here.</p>\n<p>If you have a skill that you would like to be featured then email: skills@andrewstech.me</p>\n<p> </p>",
             "author": {
                 "name": "andrews tech"
             },
             "tags": [
             ],
             "date_published": "2020-03-17T16:07:43+00:00",
-            "date_modified": "2020-03-17T16:07:43+00:00"
+            "date_modified": "2020-03-17T18:29:39+00:00"
         }
     ]
 }

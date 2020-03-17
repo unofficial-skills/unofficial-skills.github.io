@@ -3,7 +3,7 @@
     <title>Unofficial Skills</title>
     <link href="https://skills.andrewstech.me/feed.xml" rel="self" />
     <link href="https://skills.andrewstech.me" />
-    <updated>2020-03-17T17:12:21+00:00</updated>
+    <updated>2020-03-17T18:29:42+00:00</updated>
     <author>
         <name>andrews tech</name>
     </author>
@@ -17,16 +17,16 @@
         <link href="https://skills.andrewstech.me/watch-this-space/"/>
         <id>https://skills.andrewstech.me/watch-this-space/</id>
 
-        <updated>2020-03-17T16:07:43+00:00</updated>
+        <updated>2020-03-17T18:29:39+00:00</updated>
             <summary>
                 <![CDATA[
-                    Over the next few days I will start uploading custom built skills made by the community for both google and alexa. Tutorials and setup links will be uploaded here. 
+                    Over the next few days I will start uploading custom built skills made by the community for both google and alexa. Tutorials and setup links will be uploaded here. If you have a skill that you would like to be featured then email: skills@andrewstech.me 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Over the next few days I will start uploading custom built skills made by the community for both google and alexa. Tutorials and setup links will be uploaded here.</p>
-<p> </p>
+<p>If you have a skill that you would like to be featured then email: skills@andrewstech.me</p>
 <p> </p>
             ]]>
         </content>
