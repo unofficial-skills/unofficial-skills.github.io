@@ -3,12 +3,33 @@
     <title>Unofficial Skills</title>
     <link href="https://skills.andrewstech.me/feed.xml" rel="self" />
     <link href="https://skills.andrewstech.me" />
-    <updated>2020-03-19T19:18:48+00:00</updated>
+    <updated>2020-04-04T15:40:27+01:00</updated>
     <author>
         <name>andrews tech</name>
     </author>
     <id>https://skills.andrewstech.me</id>
 
+    <entry>
+        <title>YouTube Skill V3</title>
+        <author>
+            <name>andrews tech</name>
+        </author>
+        <link href="https://skills.andrewstech.me/youtube-skill-v3/"/>
+        <id>https://skills.andrewstech.me/youtube-skill-v3/</id>
+
+        <updated>2020-04-04T15:40:03+01:00</updated>
+            <summary>
+                <![CDATA[
+                    The new YouTube V3 skill by andrewstech has been released to the world for everyone to enjoy. The skill features both audio and video playback. The skill will not be released to the alexa skill store but instead you will have to build it yourself.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>The new YouTube V3 skill by andrewstech has been released to the world for everyone to enjoy. The skill features both audio and video playback. The skill will not be released to the alexa skill store but instead you will have to build it yourself. The skill is easily put together, and requires no credit card as we are not using aws. For the instructions click <a href="https://blog.andrewstech.me/p/youtube.html">here</a>. </p>
+<p>A video has been made by Paul Hibbert about this skill and will be added here after its release.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Watch this space</title>
         <author>
