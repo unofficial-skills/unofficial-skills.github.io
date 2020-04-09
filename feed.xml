@@ -3,7 +3,7 @@
     <title>Unofficial Skills</title>
     <link href="https://skills.andrewstech.me/feed.xml" rel="self" />
     <link href="https://skills.andrewstech.me" />
-    <updated>2020-04-04T15:40:27+01:00</updated>
+    <updated>2020-04-09T20:14:17+01:00</updated>
     <author>
         <name>andrews tech</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://skills.andrewstech.me/youtube-skill-v3/"/>
         <id>https://skills.andrewstech.me/youtube-skill-v3/</id>
 
-        <updated>2020-04-04T15:40:03+01:00</updated>
+        <updated>2020-04-09T20:14:09+01:00</updated>
             <summary>
                 <![CDATA[
                     The new YouTube V3 skill by andrewstech has been released to the world for everyone to enjoy. The skill features both audio and video playback. The skill will not be released to the alexa skill store but instead you will have to build it yourself.
@@ -26,7 +26,7 @@
         <content type="html">
             <![CDATA[
                 <p>The new YouTube V3 skill by andrewstech has been released to the world for everyone to enjoy. The skill features both audio and video playback. The skill will not be released to the alexa skill store but instead you will have to build it yourself. The skill is easily put together, and requires no credit card as we are not using aws. For the instructions click <a href="https://blog.andrewstech.me/p/youtube.html">here</a>. </p>
-<p>A video has been made by Paul Hibbert about this skill and will be added here after its release.</p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/5k9OGbeek28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></p>
             ]]>
         </content>
     </entry>
