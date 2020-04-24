@@ -3,12 +3,32 @@
     <title>Unofficial Skills</title>
     <link href="https://skills.andrewstech.me/feed.xml" rel="self" />
     <link href="https://skills.andrewstech.me" />
-    <updated>2020-04-10T15:49:01+01:00</updated>
+    <updated>2020-04-24T21:26:20+01:00</updated>
     <author>
         <name>andrews tech</name>
     </author>
     <id>https://skills.andrewstech.me</id>
 
+    <entry>
+        <title>YouTube skill V3 update</title>
+        <author>
+            <name>andrews tech</name>
+        </author>
+        <link href="https://skills.andrewstech.me/youtube-skill-v3-update/"/>
+        <id>https://skills.andrewstech.me/youtube-skill-v3-update/</id>
+
+        <updated>2020-04-24T21:26:14+01:00</updated>
+            <summary>
+                <![CDATA[
+                    The YouTube skill has received a new update which fixes many of the bugs that have been reported. The setup is the same but the fuction of the skill has been made so much more stable. The skill now has more than 2176 users.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                The YouTube skill has received a new update which fixes many of the bugs that have been reported. The setup is the same but the fuction of the skill has been made so much more stable. The skill now has more than 2176 users.
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Ideas for skills</title>
         <author>

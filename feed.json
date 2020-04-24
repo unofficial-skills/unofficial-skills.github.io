@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://skills.andrewstech.me/youtube-skill-v3-update/",
+            "url": "https://skills.andrewstech.me/youtube-skill-v3-update/",
+            "title": "YouTube skill V3 update",
+            "summary": "The YouTube skill has received a new update which fixes many of the bugs that have been reported. The setup is the same but the fuction of the skill has been made so much more stable. The skill now has more than 2176 users.",
+            "content_html": "The YouTube skill has received a new update which fixes many of the bugs that have been reported. The setup is the same but the fuction of the skill has been made so much more stable. The skill now has more than 2176 users.",
+            "author": {
+                "name": "andrews tech"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-04-24T21:26:14+01:00",
+            "date_modified": "2020-04-24T21:26:14+01:00"
+        },
+        {
             "id": "https://skills.andrewstech.me/ideas-for-skills/",
             "url": "https://skills.andrewstech.me/ideas-for-skills/",
             "title": "Ideas for skills",
