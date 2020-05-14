@@ -3,7 +3,7 @@
     <title>Unofficial Skills</title>
     <link href="https://skills.andrewstech.me/feed.xml" rel="self" />
     <link href="https://skills.andrewstech.me" />
-    <updated>2020-05-14T20:27:33+01:00</updated>
+    <updated>2020-05-14T20:56:27+01:00</updated>
     <author>
         <name>andrews tech</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://skills.andrewstech.me/youtube-alexa-edition-auto-screen-detection-broken/"/>
         <id>https://skills.andrewstech.me/youtube-alexa-edition-auto-screen-detection-broken/</id>
 
-        <updated>2020-05-14T20:27:14+01:00</updated>
+        <updated>2020-05-14T20:56:21+01:00</updated>
             <summary>
                 <![CDATA[
                     As of a few days ago the youtube alexa skill no longer detected if devices had a screen or not. I have developed a small fix. Download this version by clicking here Set the variable Circled above to yes if your device has a screen&hellip;
@@ -26,7 +26,7 @@
         <content type="html">
             <![CDATA[
                 <p>As of a few days ago the youtube alexa skill no longer detected if devices had a screen or not. I have developed a small fix.</p>
-<p>Download this version by clicking <a href="https://beta.andrewstech.me/youtube-v4-noauto" target="_blank" rel="noopener noreferrer">here</a></p>
+<p>Download this version by clicking <a href="https://beta.andrewstech.me/youtube-v4-noauto" title="skills" target="_blank" rel="sponsored noopener noreferrer">here</a></p>
 <p><img class="post__image" src="https://skills.andrewstech.me/media/posts/6/2020-05-14sss.jpg" alt="" width="1920" height="1080"></p>
 <p>Set the variable Circled above to yes if your device has a screen or no if it does not.</p>
 <p>Remember to enter your api and your dl link in the boxes.</p>
