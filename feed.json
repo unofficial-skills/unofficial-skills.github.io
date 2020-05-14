@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://skills.andrewstech.me/youtube-alexa-edition-auto-screen-detection-broken/",
+            "url": "https://skills.andrewstech.me/youtube-alexa-edition-auto-screen-detection-broken/",
+            "title": "YouTube Alexa Edition - Auto Screen Detection Broken",
+            "summary": "As of a few days ago the youtube alexa skill no longer detected if devices had a screen or not. I have developed a small fix. Download this version by clicking here Set the variable Circled above to yes if your device has a screen&hellip;",
+            "content_html": "<p>As of a few days ago the youtube alexa skill no longer detected if devices had a screen or not. I have developed a small fix.</p>\n<p>Download this version by clicking <a href=\"https://beta.andrewstech.me/youtube-v4-noauto\" target=\"_blank\" rel=\"noopener noreferrer\">here</a></p>\n<p><img class=\"post__image\" src=\"https://skills.andrewstech.me/media/posts/6/2020-05-14sss.jpg\" alt=\"\" width=\"1920\" height=\"1080\"></p>\n<p>Set the variable Circled above to yes if your device has a screen or no if it does not.</p>\n<p>Remember to enter your api and your dl link in the boxes.</p>\n<p>This Should act as temporary fix for this issue.</p>",
+            "author": {
+                "name": "andrews tech"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-05-14T20:27:14+01:00",
+            "date_modified": "2020-05-14T20:27:14+01:00"
+        },
+        {
             "id": "https://skills.andrewstech.me/youtube-skill-v3-update/",
             "url": "https://skills.andrewstech.me/youtube-skill-v3-update/",
             "title": "YouTube skill V3 update",
