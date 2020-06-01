@@ -29,11 +29,11 @@
 </url>
 <url>
 <loc>https://skills.andrewstech.me/youtube-alexa-edition-broken/</loc>
-<lastmod>2020-06-01T17:40:43+01:00</lastmod>
+<lastmod>2020-06-01T19:09:20+01:00</lastmod>
 </url>
 <url>
 <loc>https://skills.andrewstech.me/youtube-alexa-edition-setup/</loc>
-<lastmod>2020-05-24T12:23:40+01:00</lastmod>
+<lastmod>2020-06-01T19:09:48+01:00</lastmod>
 <image:image>
 <image:loc>https://skills.andrewstech.me/media\posts\8/2020-02-06.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -54,6 +54,10 @@
 <image:loc>https://skills.andrewstech.me/media\posts\8/2020-02-06-4.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
+</url>
+<url>
+<loc>https://skills.andrewstech.me/youtube-skill-status-checker/</loc>
+<lastmod>2020-06-01T19:08:45+01:00</lastmod>
 </url>
 <url>
 <loc>https://skills.andrewstech.me/youtube-skill-v3/</loc>

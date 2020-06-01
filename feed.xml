@@ -3,12 +3,32 @@
     <title>Unofficial Skills</title>
     <link href="https://skills.andrewstech.me/feed.xml" rel="self" />
     <link href="https://skills.andrewstech.me" />
-    <updated>2020-06-01T17:40:48+01:00</updated>
+    <updated>2020-06-01T19:09:52+01:00</updated>
     <author>
         <name>andrews tech</name>
     </author>
     <id>https://skills.andrewstech.me</id>
 
+    <entry>
+        <title>YouTube Skill Status checker</title>
+        <author>
+            <name>andrews tech</name>
+        </author>
+        <link href="https://skills.andrewstech.me/youtube-skill-status-checker/"/>
+        <id>https://skills.andrewstech.me/youtube-skill-status-checker/</id>
+
+        <updated>2020-06-01T19:08:45+01:00</updated>
+            <summary>
+                <![CDATA[
+                    As the YouTube Alexa Edition Skill is currently down I have decided to launch a Status page for the skill. The Status page can be found here.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                As the YouTube Alexa Edition Skill is currently down I have decided to launch a Status page for the skill. The Status page can be found <a href="https://skills-status.andrewstech.me/" target="_blank" rel="noopener noreferrer">here.</a>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>YouTube Alexa edition Broken</title>
         <author>
@@ -17,16 +37,17 @@
         <link href="https://skills.andrewstech.me/youtube-alexa-edition-broken/"/>
         <id>https://skills.andrewstech.me/youtube-alexa-edition-broken/</id>
 
-        <updated>2020-06-01T17:40:43+01:00</updated>
+        <updated>2020-06-01T19:09:20+01:00</updated>
             <summary>
                 <![CDATA[
-                    Hello everyone unfortunately as of the 1st of June the skill is broken. This is due to the skill no longer being able to see the status of urls. 
+                    Hello everyone unfortunately as of the 1st of June the skill is broken. This is due to the skill no longer being able to see the status of urls. Have a look at the status page for updates. https://skills-status.andrewstech.me/
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Hello everyone unfortunately as of the 1st of June the skill is broken. This is due to the skill no longer being able to see the status of urls.</p>
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/U4EUIP0w0Ew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Have a look at the status page for updates. <a href="https://skills-status.andrewstech.me/">https://skills-status.andrewstech.me/</a></p>
             ]]>
         </content>
     </entry>
@@ -38,7 +59,7 @@
         <link href="https://skills.andrewstech.me/youtube-alexa-edition-setup/"/>
         <id>https://skills.andrewstech.me/youtube-alexa-edition-setup/</id>
 
-        <updated>2020-05-24T12:23:40+01:00</updated>
+        <updated>2020-06-01T19:09:48+01:00</updated>
             <summary>
                 <![CDATA[
                     So you want to have YouTube on alexa? Video If so lets get started. First off you need to setup a free Heroku account. You can do this by clicking here. Once we have created our Heroku account we need to deploy our code to&hellip;
@@ -58,7 +79,8 @@
 <div class="separator" style="clear: both; text-align: center;"><a href="https://1.bp.blogspot.com/-XcdH2a_ActI/Xjxy6pOUXmI/AAAAAAAAAEo/ZJjwTwclm-05PDQGyyBJpicVVSrPNGDfgCNcBGAsYHQ/s1600/2020-02-06%2B%25283%2529.png" style="margin-left: 1em; margin-right: 1em;"><img src="https://skills.andrewstech.me/media/posts/8/2020-02-06-3.png" width="320" height="180" border="0"  ></a></div>
 <span style="font-family: roboto, sans;"><span style="white-space: pre;">The two blocks that I have highlighted are where you api key and heroku link need to go. To edit them click on </span></span><br> <span style="font-family: roboto, sans;"><span style="white-space: pre;">their block and you should see the text "YOUR API HERE" replace this with the YouTube api key you were given.</span></span><br> <span style="font-family: roboto, sans;"><span style="white-space: pre;">In the next block you should see "YOUR LINK HERE" replace that with your heroku link.</span></span><br>
 <div class="separator" style="clear: both; text-align: center;"><span style="font-family: roboto, sans;"><span style="white-space: pre;"><a href="https://1.bp.blogspot.com/-1mqNIWLtU-Q/Xjx0Ne8UjPI/AAAAAAAAAE0/YjRs0KrFYzgRixbOlGjj9dWZGMX5-8MFACNcBGAsYHQ/s1600/2020-02-06%2B%25284%2529.png" style="margin-left: 1em; margin-right: 1em;"><img src="https://skills.andrewstech.me/media/posts/8/2020-02-06-4.png" width="320" height="180" border="0"  ></a></span></span></div>
-<br> <span style="font-family: roboto, sans;"><span style="white-space: pre;">Now you have done that Click on the settings cog at the top and change your Invocation name to that you want to use to launch the skill.</span></span><br> <span style="font-family: roboto, sans;"><span style="white-space: pre;">Once you have done that click upload to alexa and a button will appear saying connect amazon. CLICK IT.</span></span><br> <span style="font-family: roboto, sans;"><span style="white-space: pre;">and sign in to your amazon account. Once your account has been linked press the button again.</span></span><br> <span style="font-family: roboto, sans;"><span style="white-space: pre;"><br></span></span> <span style="font-family: roboto, sans;"><span style="white-space: pre;">That is it the skill should now be available on your amazon echo.</span></span><br> <span style="font-family: roboto, sans;"><span style="white-space: pre;"><br></span></span> <span style="font-family: roboto, sans;"><span style="white-space: pre;">Hope it works if not send me a DM or leave a comment bellow.</span></span><br> <span style="font-family: roboto, sans;"><span style="white-space: pre;"><br></span></span> <span style="font-family: roboto, sans;"><span style="white-space: pre;">Please list any issues with the project on GitHub: </span></span><a href="https://github.com/andrewstech/youtube-alexa-edition/issues">https://github.com/andrewstech/youtube-alexa-edition/issues</a><br> <span style="font-family: roboto, sans;"><span style="white-space: pre;"><br></span></span> <span style="font-family: roboto, sans;"><span style="white-space: pre;">If you would like to support this project then feel free to donate <a href="https://www.paypal.me/andrewstech1" target="_blank" rel="noopener noreferrer">here</a></span></span>
+<p><br> <span style="font-family: roboto, sans;"><span style="white-space: pre;">Now you have done that Click on the settings cog at the top and change your Invocation name to that you want to use to launch the skill.</span></span><br> <span style="font-family: roboto, sans;"><span style="white-space: pre;">Once you have done that click upload to alexa and a button will appear saying connect amazon. CLICK IT.</span></span><br> <span style="font-family: roboto, sans;"><span style="white-space: pre;">and sign in to your amazon account. Once your account has been linked press the button again.</span></span><br> <span style="font-family: roboto, sans;"><span style="white-space: pre;"><br></span></span> <span style="font-family: roboto, sans;"><span style="white-space: pre;">That is it the skill should now be available on your amazon echo.</span></span><br> <span style="font-family: roboto, sans;"><span style="white-space: pre;"><br></span></span> <span style="font-family: roboto, sans;"><span style="white-space: pre;">Hope it works if not send me a DM or leave a comment bellow.</span></span><br> <span style="font-family: roboto, sans;"><span style="white-space: pre;"><br></span></span> <span style="font-family: roboto, sans;"><span style="white-space: pre;">Please list any issues with the project on GitHub: </span></span><a href="https://github.com/andrewstech/youtube-alexa-edition/issues">https://github.com/andrewstech/youtube-alexa-edition/issues</a><br> <span style="font-family: roboto, sans;"><span style="white-space: pre;"><br></span></span> <span style="font-family: roboto, sans;"><span style="white-space: pre;">If you would like to support this project then feel free to donate <a href="https://www.paypal.me/andrewstech1" target="_blank" rel="noopener noreferrer">here</a></span></span></p>
+<p>The status of the skill can be found here: <a href="https://skills-status.andrewstech.me/">https://skills-status.andrewstech.me/</a></p>
             ]]>
         </content>
     </entry>
