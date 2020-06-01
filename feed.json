@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://skills.andrewstech.me/youtube-alexa-edition-broken/",
+            "url": "https://skills.andrewstech.me/youtube-alexa-edition-broken/",
+            "title": "YouTube Alexa edition Broken",
+            "summary": "Hello everyone unfortunately as of the 1st of June the skill is broken. This is due to the skill no longer being able to see the status of urls. ",
+            "content_html": "<p>Hello everyone unfortunately as of the 1st of June the skill is broken. This is due to the skill no longer being able to see the status of urls.</p>\n<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/U4EUIP0w0Ew\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+            "author": {
+                "name": "andrews tech"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-06-01T17:40:43+01:00",
+            "date_modified": "2020-06-01T17:40:43+01:00"
+        },
+        {
             "id": "https://skills.andrewstech.me/youtube-alexa-edition-setup/",
             "url": "https://skills.andrewstech.me/youtube-alexa-edition-setup/",
             "title": "YouTube alexa edition setup",

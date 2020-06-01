@@ -3,12 +3,33 @@
     <title>Unofficial Skills</title>
     <link href="https://skills.andrewstech.me/feed.xml" rel="self" />
     <link href="https://skills.andrewstech.me" />
-    <updated>2020-05-24T12:25:52+01:00</updated>
+    <updated>2020-06-01T17:40:48+01:00</updated>
     <author>
         <name>andrews tech</name>
     </author>
     <id>https://skills.andrewstech.me</id>
 
+    <entry>
+        <title>YouTube Alexa edition Broken</title>
+        <author>
+            <name>andrews tech</name>
+        </author>
+        <link href="https://skills.andrewstech.me/youtube-alexa-edition-broken/"/>
+        <id>https://skills.andrewstech.me/youtube-alexa-edition-broken/</id>
+
+        <updated>2020-06-01T17:40:43+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Hello everyone unfortunately as of the 1st of June the skill is broken. This is due to the skill no longer being able to see the status of urls. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hello everyone unfortunately as of the 1st of June the skill is broken. This is due to the skill no longer being able to see the status of urls.</p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/U4EUIP0w0Ew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>YouTube alexa edition setup</title>
         <author>
