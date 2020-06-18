@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://skills.andrewstech.me/whatsapp-notifications/",
+            "url": "https://skills.andrewstech.me/whatsapp-notifications/",
+            "title": "Whatsapp Notifications",
+            "summary": "A band new service called Callmebot has been launched which allows the user to send whatsapp messages to thereself using IFTTT or webhooks. Find the service here. ",
+            "content_html": "<p>A band new service called Callmebot has been launched which allows the user to send whatsapp messages to thereself using IFTTT or webhooks. Find the service <a href=\"https://www.callmebot.com/\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.</p>\n<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/OkmPQlC8VM0\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p> </p>",
+            "author": {
+                "name": "andrews tech"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-06-18T20:27:45+01:00",
+            "date_modified": "2020-06-18T20:27:45+01:00"
+        },
+        {
             "id": "https://skills.andrewstech.me/fixed/",
             "url": "https://skills.andrewstech.me/fixed/",
             "title": "Fixed",

@@ -3,12 +3,34 @@
     <title>Unofficial Skills</title>
     <link href="https://skills.andrewstech.me/feed.xml" rel="self" />
     <link href="https://skills.andrewstech.me" />
-    <updated>2020-06-11T14:41:18+01:00</updated>
+    <updated>2020-06-18T20:27:52+01:00</updated>
     <author>
         <name>andrews tech</name>
     </author>
     <id>https://skills.andrewstech.me</id>
 
+    <entry>
+        <title>Whatsapp Notifications</title>
+        <author>
+            <name>andrews tech</name>
+        </author>
+        <link href="https://skills.andrewstech.me/whatsapp-notifications/"/>
+        <id>https://skills.andrewstech.me/whatsapp-notifications/</id>
+
+        <updated>2020-06-18T20:27:45+01:00</updated>
+            <summary>
+                <![CDATA[
+                    A band new service called Callmebot has been launched which allows the user to send whatsapp messages to thereself using IFTTT or webhooks. Find the service here. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>A band new service called Callmebot has been launched which allows the user to send whatsapp messages to thereself using IFTTT or webhooks. Find the service <a href="https://www.callmebot.com/" target="_blank" rel="noopener noreferrer">here</a>.</p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/OkmPQlC8VM0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Fixed</title>
         <author>
