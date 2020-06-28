@@ -16,6 +16,9 @@
 <loc>https://skills.andrewstech.me/page/2/</loc>
 </url>
 <url>
+<loc>https://skills.andrewstech.me/page/3/</loc>
+</url>
+<url>
 <loc>https://skills.andrewstech.me/test-post/</loc>
 <lastmod>2020-05-14T21:31:35+01:00</lastmod>
 </url>
@@ -62,6 +65,10 @@
 <image:loc>https://skills.andrewstech.me/media\posts\8/2020-02-06-4.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
+</url>
+<url>
+<loc>https://skills.andrewstech.me/youtube-skill-bugs/</loc>
+<lastmod>2020-06-28T22:26:42+01:00</lastmod>
 </url>
 <url>
 <loc>https://skills.andrewstech.me/youtube-skill-status-checker/</loc>
