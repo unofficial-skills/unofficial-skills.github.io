@@ -3,7 +3,7 @@
     <title>Unofficial Skills</title>
     <link href="https://skills.andrewstech.me/feed.xml" rel="self" />
     <link href="https://skills.andrewstech.me" />
-    <updated>2020-06-28T22:37:09+01:00</updated>
+    <updated>2020-06-28T22:47:29+01:00</updated>
     <author>
         <name>andrews tech</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://skills.andrewstech.me/youtube-skill-bugs/"/>
         <id>https://skills.andrewstech.me/youtube-skill-bugs/</id>
 
-        <updated>2020-06-28T22:37:00+01:00</updated>
+        <updated>2020-06-28T22:47:21+01:00</updated>
             <summary>
                 <![CDATA[
                     Since the project was launched we have had tones of issue requests due to Api usage. Today I am happy to announce that we will be moving away from the YouTube Api to an unofficial one. This will remove the Api usage errors completely. We&hellip;
@@ -26,7 +26,7 @@
         <content type="html">
             <![CDATA[
                 <p>Since the project was launched we have had tones of issue requests due to Api usage. Today I am happy to announce that we will be moving away from the YouTube Api to an unofficial one. This will remove the Api usage errors completely. We will also be launching some public servers at the same time to make the setup process even easier.</p>
-<p> This changes will happen slowly across the next few weeks.</p>
+<p> These changes will happen slowly across the next few weeks.</p>
 <p> </p>
             ]]>
         </content>

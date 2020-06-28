@@ -15,14 +15,14 @@
             "url": "https://skills.andrewstech.me/youtube-skill-bugs/",
             "title": "Youtube skill Bugs",
             "summary": "Since the project was launched we have had tones of issue requests due to Api usage. Today I am happy to announce that we will be moving away from the YouTube Api to an unofficial one. This will remove the Api usage errors completely. We&hellip;",
-            "content_html": "<p>Since the project was launched we have had tones of issue requests due to Api usage. Today I am happy to announce that we will be moving away from the YouTube Api to an unofficial one. This will remove the Api usage errors completely. We will also be launching some public servers at the same time to make the setup process even easier.</p>\n<p> This changes will happen slowly across the next few weeks.</p>\n<p> </p>",
+            "content_html": "<p>Since the project was launched we have had tones of issue requests due to Api usage. Today I am happy to announce that we will be moving away from the YouTube Api to an unofficial one. This will remove the Api usage errors completely. We will also be launching some public servers at the same time to make the setup process even easier.</p>\n<p> These changes will happen slowly across the next few weeks.</p>\n<p> </p>",
             "author": {
                 "name": "andrews tech"
             },
             "tags": [
             ],
             "date_published": "2020-06-28T22:26:42+01:00",
-            "date_modified": "2020-06-28T22:37:00+01:00"
+            "date_modified": "2020-06-28T22:47:21+01:00"
         },
         {
             "id": "https://skills.andrewstech.me/whatsapp-notifications/",
