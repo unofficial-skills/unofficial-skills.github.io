@@ -9,5 +9,19 @@
         "name": "andrewstech"
     },
     "items": [
+        {
+            "id": "https://skills.andrewstech.me/alpha-video/",
+            "url": "https://skills.andrewstech.me/alpha-video/",
+            "title": "Alpha - Video",
+            "summary": "A new skill is currently in the works!",
+            "content_html": "<p>A new skill is currently in the works!</p>",
+            "author": {
+                "name": "andrewstech"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-07-05T19:18:55+01:00",
+            "date_modified": "2020-07-05T19:18:55+01:00"
+        }
     ]
 }

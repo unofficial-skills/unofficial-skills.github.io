@@ -9,4 +9,24 @@
     </author>
     <id>https://skills.andrewstech.me</id>
 
+    <entry>
+        <title>Alpha - Video</title>
+        <author>
+            <name>andrewstech</name>
+        </author>
+        <link href="https://skills.andrewstech.me/alpha-video/"/>
+        <id>https://skills.andrewstech.me/alpha-video/</id>
+
+        <updated>2020-07-05T19:18:55+01:00</updated>
+            <summary>
+                <![CDATA[
+                    A new skill is currently in the works!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>A new skill is currently in the works!</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
