@@ -5,6 +5,7 @@
     "home_page_url": "https://skills.andrewstech.me",
     "feed_url": "https://skills.andrewstech.me/feed.json",
     "user_comment": "",
+    "icon": "https://skills.andrewstech.me/media/website/favicon-1.ico",
     "author": {
         "name": "andrewstech"
     },
@@ -20,8 +21,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-07-05T21:29:12+01:00",
-            "date_modified": "2020-07-05T21:29:12+01:00"
+            "date_published": "2020-08-11T16:16:45+01:00",
+            "date_modified": "2020-08-11T16:16:45+01:00"
         }
     ]
 }
